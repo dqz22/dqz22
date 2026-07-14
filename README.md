@@ -1,13 +1,11 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Diego Queiroz**, formado em **Engenharia Mecânica** e pós-graduado em **Análise de Dados**. Atualmente atuo como **Supervisor de Serviços** em uma concessionária **Mercedes-Benz**, com mais de **10 anos de experiência** na área de pós-vendas.
+Sou **Diego Queiroz**, formado em **Engenharia Mecânica**, pós-graduado em **Análise de Dados** e atualmente **Supervisor de Serviços** em uma concessionária **Mercedes-Benz**, com mais de **10 anos de experiência** na área de pós-vendas.
 
-Ao longo da minha carreira, desenvolvi uma forte capacidade analítica por meio da gestão de indicadores (KPIs), elaboração de relatórios em **Excel Avançado**, melhoria de processos e apoio à tomada de decisões.
-
-Hoje estou em **transição de carreira para a área de Dados**, buscando oportunidades como **Analista de Dados**. Este perfil foi criado para demonstrar minha evolução técnica por meio de projetos práticos desenvolvidos com **Python** e outras ferramentas de análise de dados.
+Estou em **transição de carreira para a área de Dados** e este perfil reúne projetos desenvolvidos para demonstrar minhas habilidades em **Análise de Dados com Python**, além da minha evolução técnica e aprendizado contínuo.
 
 ## 🚀 Objetivo
-Construir uma carreira sólida em Dados, transformando informações em insights que apoiem a tomada de decisões.
+Construir uma carreira sólida como **Analista de Dados**, transformando dados em informações que apoiem a tomada de decisões.
 
 ## 🛠️ Tecnologias
 <p align="left">
