@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Diego Alves Queiroz**, formado em **Engenharia Mecânica** e pós-graduado em **Análise de Dados**. Atualmente atuo como **Supervisor de Serviços** em uma concessionária **Mercedes-Benz**, com mais de **10 anos de experiência** na área de pós-vendas.
+Sou **Diego Queiroz**, formado em **Engenharia Mecânica** e pós-graduado em **Análise de Dados**. Atualmente atuo como **Supervisor de Serviços** em uma concessionária **Mercedes-Benz**, com mais de **10 anos de experiência** na área de pós-vendas.
 
 Ao longo da minha carreira, desenvolvi uma forte capacidade analítica por meio da gestão de indicadores (KPIs), elaboração de relatórios em **Excel Avançado**, melhoria de processos e apoio à tomada de decisões.
 
